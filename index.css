@@ -82,4 +82,25 @@ h4 {
 img {
     height: 700px;
 }
-/* FOOTER  */
+/* CARS  */
+
+.cards{  
+    margin-top: 20px;
+}
+img{
+    width: 295px;
+    height: 380.65px;
+
+}
+.cards{
+    display: flex;
+        justify-content: space-between;
+}
+
+.card p{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
